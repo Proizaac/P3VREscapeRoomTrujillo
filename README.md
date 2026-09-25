@@ -1,1 +1,1 @@
-# P3VREscapeRoomTrujillo
+# P3TrujilloEscapeRoom
